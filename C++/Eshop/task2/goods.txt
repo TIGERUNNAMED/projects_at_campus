@@ -1,0 +1,9 @@
+rice	1	2	59	rita	1
+milk	1	5	16	rcx	1
+shirt	2	10	14	rcx	0.24
+shorts	2	30	20	rcx	1
+c++	3	25	20	rcx	0.8
+tea	1	10	15	rcx	0.75
+Hamlet	3	20	30	rcx	0.8
+hat	2	20	5	rcx	0.95
+Gone_with_the_wind	3	40	5	rcx	0.9
